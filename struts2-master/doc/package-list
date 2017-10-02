@@ -1,0 +1,5 @@
+com.internousdev.struts2.action
+com.internousdev.struts2.dao
+com.internousdev.struts2.dto
+com.internousdev.struts2.property
+com.internousdev.struts2.util
